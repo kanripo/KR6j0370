@@ -1,0 +1,9 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說佛母般若波羅蜜多大明觀想儀軌
+#+DATE: 2015-08-30 20:31:06.815562
+#+PROPERTY: JUAN 0
+#+PROPERTY: ID KR6j0370
+#+PROPERTY: SOURCE 高麗藏 東國大學校影印本
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS TKD
+焉
