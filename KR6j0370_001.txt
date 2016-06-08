@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:06.582907
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:59
 #+TITLE: 佛說佛母般若波羅蜜多大明觀想儀軌
 #+PROPERTY: CBETA_ID T20n1152
 #+PROPERTY: ID KR6j0370
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1152
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0370_T_000-0614a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0370_T_001-0614a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1152¶
-
- 佛說佛母般若波羅蜜多大明觀¶
+No. 1152¶
+佛說佛母般若波羅蜜多大明觀¶
 想儀軌¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
